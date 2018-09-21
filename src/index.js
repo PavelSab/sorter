@@ -1,6 +1,7 @@
 class Sorter {
   constructor() {
     // your implementation
+    return 0;
   }
 
   add(element) {
